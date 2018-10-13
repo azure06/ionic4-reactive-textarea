@@ -17,6 +17,25 @@ npm install ionic4-reactive-textarea
 Usage
 -----------------
 
+```import in .module.ts file
+import { ReactiveTextAreaDirectiveModule } from 'ionic4-reactive-textarea/lib/reactive-textarea.directive.module';
+
+@NgModule({
+  imports: [
+    CommonModule,
+    FormsModule,
+    IonicModule,
+    ReactiveTextAreaDirectiveModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: HomePage,
+      },
+    ]),
+  ],
+})
+
+```
 
 
 
