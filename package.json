@@ -12,6 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/azure06/ionic4-reactive-textarea.git"
   },
+  "keywords": [
+    "angular",
+    "ionic",
+    "ionic4"
+    "autosize",
+    "textarea",
+    "reactive"
+  ],
   "author": "Gabriele Sato",
   "license": "MIT",
   "bugs": {
