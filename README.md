@@ -4,6 +4,8 @@ Angular auto-resize text-area directive
 
 ionic4-reactive-textarea is an Angular directive that automatically resize the height of text-area to fit the content.
 
+![alt text](assets/reactive-textarea.gif "Reactive text-area")
+
 Installation
 -----------------
 
