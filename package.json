@@ -1,8 +1,8 @@
 {
   "name": "ionic4-reactive-textarea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular auto-resize text-area directive",
-  "main": "lib/main.js",
+  "main": "lib/reactive-textarea.directive.module.js",
   "types": "lib/reactive-textarea.directive.module.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
