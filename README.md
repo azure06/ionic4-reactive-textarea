@@ -18,10 +18,10 @@ npm install ionic4-reactive-textarea
 
 Usage
 -----------------
-import in .module.ts file
+import in `module.ts` file
 
 ```typescript
-import { ReactiveTextAreaDirectiveModule } from 'ionic4-reactive-textarea/lib/reactive-textarea.directive.module';
+import { ReactiveTextAreaDirectiveModule } from 'ionic4-reactive-textarea';
 
 @NgModule({
   imports: [
@@ -39,7 +39,7 @@ import { ReactiveTextAreaDirectiveModule } from 'ionic4-reactive-textarea/lib/re
 })
 
 ```
-and then in html template
+and then in `html` template
 
 ```html
 <ion-header>
