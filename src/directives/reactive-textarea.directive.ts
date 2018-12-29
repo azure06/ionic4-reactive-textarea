@@ -15,6 +15,7 @@ export class ReactiveTextAreaDirective implements OnInit, OnDestroy {
           'reactive',
         );
         textArea.style.overflow = 'hidden';
+        textArea.style.height = 'auto';
         textArea.style.height =
           +textArea.scrollHeight > +resizeHeight
             ? resizeHeight + 'px'

@@ -1,6 +1,6 @@
 {
   "name": "ionic4-reactive-textarea",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Angular auto-resize text-area directive",
   "main": "lib/reactive-textarea.directive.module.js",
   "types": "lib/reactive-textarea.directive.module.d.ts",
